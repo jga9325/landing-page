@@ -87,7 +87,7 @@ ul {
     font-size: 20px;
 }
 
-.welcome-text button {
+.welcome-text .button {
     background-color: #3882F6;
     border: none;
     color: white;
@@ -95,6 +95,7 @@ ul {
     border-radius: 10px;
     font-weight: bold;
     font-size: 18px;
+    text-decoration: none;
 }
 
 .img-container {
